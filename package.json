@@ -1,0 +1,19 @@
+{
+  "name": "node-mavlink-gc",
+  "version": "0.0.0",
+  "description": "Experimental node.js/mavlink integration for a ground-control module to communicate with px4 drones.",
+  "main": "index.js",
+  "repository": "https://github.com/cbumgard/node-mavlink-gc",
+  "author": "Chris Bumgardner <cbumgard@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "1.4.4",
+    "jspack": "0.0.1",
+    "winston": "0.7.1"
+  },
+  "devDependencies" : {
+    "should" : "1.2.2",
+    "mocha" : "1.9.0",
+    "sinon" : "1.6.0"
+  }
+}
