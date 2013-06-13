@@ -31,4 +31,4 @@ You should get the following output:
 
 ## Customized build for different hardware
 
-First clone/fork the mavlink repo at https://github.com/mavlink/mavlink and follow the instructions in the https://github.com/mavlink/mavlink/blob/master/pymavlink/generator/javascript/README.MD file. You'll be building JavaScript/Node.js modules for specific hardware (e.g. pixhawk). Then you copy the needed implementation to this project's node_modules (or into lib/[implementation]/. Clearly this needs an improved process.
+First clone/fork the mavlink repo at [https://github.com/mavlink/mavlink](https://github.com/mavlink/mavlink) and follow the instructions in the [https://github.com/mavlink/mavlink/blob/master/pymavlink/generator/javascript/README.MD](https://github.com/mavlink/mavlink/blob/master/pymavlink/generator/javascript/README.MD) file. You'll be building JavaScript/Node.js modules for specific hardware (e.g. pixhawk). Then you copy the needed implementation to this project's node_modules (or into lib/[implementation]/. Clearly this needs an improved process.
